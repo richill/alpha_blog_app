@@ -1,0 +1,9 @@
+{
+  "name": "alpha_blog_app",
+  "private": true,
+  "dependencies": {
+  },
+  "version": "0.1.0",
+  "devDependencies": {
+  }
+}
